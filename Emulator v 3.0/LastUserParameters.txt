@@ -1,0 +1,4 @@
+SmartCamera;academic-educatorsextension.portal.ptc.io;7c6f45c5-fab8-4834-9c03-47ed879253bb;True;SmartCam_Jubafa;Code_set;
+SafetySystem;academic-educatorsextension.portal.ptc.io;7c6f45c5-fab8-4834-9c03-47ed879253bb;True;SafetySensor_Jubafa;Distance_set;
+RemoteTerminal;academic-educatorsextension.portal.ptc.io;7c6f45c5-fab8-4834-9c03-47ed879253bb;True;RemoteTerminal_Jubafa;Properties_set_get;
+RobotSimulator;academic-educatorsextension.portal.ptc.io;7c6f45c5-fab8-4834-9c03-47ed879253bb;;;;
